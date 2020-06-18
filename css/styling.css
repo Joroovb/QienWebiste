@@ -139,7 +139,7 @@ section {
 }
 
 .footer-class {
-    background-color: #0bbf44;
+    background-color: #f4c2e2;
     margin-top: 275px;
 
 }
@@ -215,7 +215,7 @@ button {
 }
 
 button:hover {
-    background: #00E676;
+    background: #92c53d;
     color: white;
 }
 
