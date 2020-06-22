@@ -161,6 +161,39 @@ section {
 #box2 {
     background-color: #f4d4c2;
 }
+.table-html {
+    margin: 150px;
+    table-layout: fixed;
+    width: 2000px;
+    text-align: left;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+.html-1 {
+    width: 400px;
+}
+.html-2 {
+    width: 150px;
+}
+.section-html {
+    margin-left: 150px;
+}
+.box3 .box4 .box5 {
+    display: flex;
+    align-items: stretch;
+}
+th {
+    background-color: lightgreen;
+    padding: 10px;
+}
+td {
+    background-color: lightgrey;
+    padding: 10px;
+}
+.headers {
+    margin: 50px; 
+}
+
 /*styling for text*/
 h1,h2,h3,button {
     font-weight: 600;
@@ -174,6 +207,10 @@ h1,h2,h3,button {
     border-radius: 9px;
     border-left: 5px black solid;
     border-right: 5px black solid;
+}
+.header-one-html {
+    padding: 12px;
+    width: 75%;
 }
 h1 {
     font-size: 64px;
@@ -201,6 +238,9 @@ p {
 .paragraph-large {
     font-size: 28px;
     line-height: 36px;
+}
+.paragraph-large-html {
+    width: 70%;
 }
 
 button {
