@@ -162,7 +162,7 @@ section {
     background-color: #f4d4c2;
 }
 .table-html {
-    margin: 150px;
+    margin: 300px;
     table-layout: fixed;
     width: 2000px;
     text-align: left;
@@ -176,7 +176,7 @@ section {
     width: 150px;
 }
 .section-html {
-    margin-left: 150px;
+    margin-left: 300px;
 }
 .box3 .box4 .box5 {
     display: flex;
@@ -191,7 +191,7 @@ td {
     padding: 10px;
 }
 .headers {
-    margin: 50px; 
+    margin-left: 300px; 
 }
 
 /*styling for text*/
